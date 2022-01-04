@@ -36,5 +36,5 @@ function appenditems(arr){
 }
 
 function gotocart(){
-window.location.pathname="evaluation/cart/cart.html"
+window.location.href="cart.html"
 }

@@ -46,5 +46,5 @@ let mealarr = JSON.parse(localStorage.getItem("mealpage"))
     }
 
     function checkout(){
-        window.location.pathname= "evaluation/checkout/checkout.html"
+        window.location.href= "checkout.html"
     }
